@@ -1,5 +1,11 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Hayat Dargui</h1>
+<div align="center">
+
+[![hdargui's 42 stats](https://badge.mediaplus.ma/greenbinary/hdargui)](https://github.com/oakoudad/badge42)
+
+</div>
+
 <h3 align="center">A passionate full-stack web developer from Morocco</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
