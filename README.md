@@ -9,17 +9,8 @@
 [![42 Badge](https://badge.mediaplus.ma/greenbinary/hdargui)](https://github.com/oakoudad/badge42)
 [![Profile Views](https://komarev.com/ghpvc/?username=hayatdargui&label=Profile%20Views&color=2E8B57&style=for-the-badge)](https://github.com/hayatdargui)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hayatdargui?logo=twitter&style=for-the-badge&color=228B22&labelColor=2D8F2D)](https://twitter.com/hayatdargui)
-
-</div>
 <img align="right" alt="Developer Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-
-
-
-
-
-
-
+</div>
 ---
 ### 🎯 Current Focus
 - 🌱 **Learning:** React.js & Laravel ecosystem
