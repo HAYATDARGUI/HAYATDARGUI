@@ -14,6 +14,13 @@
 <img align="right" alt="Developer Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
+
+
+
+
+
+
+---
 ### 🎯 Current Focus
 - 🌱 **Learning:** React.js & Laravel ecosystem
 - 💼 **Building:** Full-stack web applications
@@ -69,17 +76,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@hayatdargui-228B22?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hayatdargui)
 [![Instagram](https://img.shields.io/badge/Instagram-@_hayat_dk_-32CD32?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_hayat_dk_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2D8F2D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hayat-dargui)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayatdargui&repo=project-name&theme=github_dark_green&border_color=2E8B57)](https://github.com/hayatdargui/project-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayatdargui&repo=another-project&theme=github_dark_green&border_color=2E8B57)](https://github.com/hayatdargui/another-project)
 
 </div>
 
