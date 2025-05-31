@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Developer Animation" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJlN2lqZGVxbGdhdTZ0MmJhMXA4eGd0ZGM1cm9vMGh6cjBiMGVxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif)">
+<img align="right" alt="Developer Animation" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJlN2lqZGVxbGdhdTZ0MmJhMXA4eGd0ZGM1cm9vMGh6cjBiMGVxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif">
 
 ```typescript
 const hayat: Developer = {
