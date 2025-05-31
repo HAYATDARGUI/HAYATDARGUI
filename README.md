@@ -113,8 +113,3 @@ const hayat: Developer = {
   
   *Made with 💚 and lots of ☕*
 </div>
-  
-  **✨ "Code is poetry written in logic" ✨**
-  
-  *Made with 💚 and lots of ☕*
-</div>
