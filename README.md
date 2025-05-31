@@ -101,7 +101,7 @@ const hayat: Developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayatdargui&bg_color=0d1117&color=32cd32&line=2e8b57&point=228b22&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayatdargui&bg_color=0d1117&color=006400&line=013220&point=004225&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
