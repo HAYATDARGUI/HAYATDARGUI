@@ -11,11 +11,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hayatdargui?logo=twitter&style=for-the-badge&color=228B22&labelColor=2D8F2D)](https://twitter.com/hayatdargui)
 
 </div>
-
----
-
-## 🚀 About Me
-
 <img align="right" alt="Developer Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
