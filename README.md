@@ -69,10 +69,6 @@ const hayat: Developer = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatdargui&layout=compact&langs_count=8&theme=github_dark_green&border_color=2E8B57"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayatdargui&theme=dark&background=0D1117&stroke=2E8B57&ring=32CD32&fire=228B22&currStreakLabel=2E8B57&sideNums=32CD32&currStreakNum=228B22&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
