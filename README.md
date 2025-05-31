@@ -107,7 +107,7 @@ const hayat: Developer = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,19,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,19,20&height=100&section=footer" width="100%"/>
   
   **✨ "Code is poetry written in logic" ✨**
   
