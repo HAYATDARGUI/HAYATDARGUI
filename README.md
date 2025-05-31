@@ -9,9 +9,27 @@
 [![42 Badge](https://badge.mediaplus.ma/greenbinary/hdargui)](https://github.com/oakoudad/badge42)
 [![Profile Views](https://komarev.com/ghpvc/?username=hayatdargui&label=Profile%20Views&color=2E8B57&style=for-the-badge)](https://github.com/hayatdargui)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hayatdargui?logo=twitter&style=for-the-badge&color=228B22&labelColor=2D8F2D)](https://twitter.com/hayatdargui)
-<img align="right" alt="Developer Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 </div>
+
 ---
+
+## 🚀 About Me
+
+<img align="right" alt="Developer Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+const hayat: Developer = {
+  name: "Hayat Dargui",
+  location: "Morocco 🇲🇦",
+  role: "Full-Stack Web Developer",
+  education: "42 School Student",
+  currentFocus: ["React", "Laravel", "Modern Web Technologies"],
+  passion: "Building innovative web solutions",
+  motto: "Code with purpose, develop with passion"
+}
+```
+
 ### 🎯 Current Focus
 - 🌱 **Learning:** React.js & Laravel ecosystem
 - 💼 **Building:** Full-stack web applications
@@ -70,6 +88,8 @@
 
 </div>
 
+
+
 ---
 
 ## 💡 Fun Facts
@@ -92,6 +112,11 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,19,20&height=100&section=footer" width="100%"/>
+  
+  **✨ "Code is poetry written in logic" ✨**
+  
+  *Made with 💚 and lots of ☕*
+</div>
   
   **✨ "Code is poetry written in logic" ✨**
   
