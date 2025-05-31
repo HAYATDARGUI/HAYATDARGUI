@@ -18,17 +18,6 @@
 
 <img align="right" alt="Developer Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-typescript
-const hayat: Developer = {
-  name: "Hayat Dargui",
-  location: "Morocco 🇲🇦",
-  role: "Full-Stack Web Developer",
-  education: "42 School Student",
-  currentFocus: ["React", "Laravel", "Modern Web Technologies"],
-  passion: "Building innovative web solutions",
-  motto: "Code with purpose, develop with passion"
-}
-
 
 ### 🎯 Current Focus
 - 🌱 **Learning:** React.js & Laravel ecosystem
