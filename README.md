@@ -67,7 +67,6 @@ const hayat: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayatdargui&show_icons=true&theme=github_dark_green&include_all_commits=true&count_private=true&border_color=2E8B57"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayatdargui&layout=compact&langs_count=8&theme=github_dark_green&border_color=2E8B57"/>
 </div>
 
